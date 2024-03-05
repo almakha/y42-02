@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: test_commit
+    meta:
+      experts:
+        users:
+          - alisa.makhanouska@y42.com
+    config:
+      y42:
+        apiVersion: v1
